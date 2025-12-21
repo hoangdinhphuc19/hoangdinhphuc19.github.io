@@ -5,7 +5,8 @@ permalink: /about/
 ---
 
 ## Summary
-Minimalist is a simple and light weighted [jekyll](http://jekyllrb.com/) theme. It focuses on a minimalistic design but still providing all functionality for a personal blog. For more information, e.g. how to use it, check out the [repository's](https://github.com/Trybnetic/minimalist) [Readme](https://github.com/Trybnetic/minimalist/blob/master/README.md).
+Salut! my name is Dinh, actually PhD student in Microbial Ecology from LIEC, CNRS, Université de Lorraine under the supervision of research director Aurélie CEBRON and research engineer Thierry BEGUIRISTAIN. My passions are microbial ecology, bioinformatics and molecular biology.
+My sujet thesis is "The role of microbial functional redundancy in soil resilience to contaminants and global change: metagenomic and functional trait approaches".
 
 ## Experience 
 [Jekyll](http://jekyllrb.com/) is a simple, ruby-based, static site generator. Jekyll generates beautifully static sites from simple text documents such as markdown. Check also the [jekyll documentation](http://jekyllrb.com/docs/home/) for what you can do with it.
