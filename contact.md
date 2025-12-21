@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Contact
+title: Contact details
 permalink: /contact/
 ---
-## Details
 
 - **Email**: [dinh-phuc.hoang@univ-lorraine.fr](mailto:dinh-phuc.hoang@univ-lorraine.fr)
 - **GitHub**: [github.com/hoangdinhphuc19](https://github.com/hoangdinhphuc19)
