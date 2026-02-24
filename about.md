@@ -5,10 +5,11 @@ permalink: /about/
 ---
 
 ## Summary
-![Image](/assets/images/portrait.jpg)
-
 Salut! my name is Dinh, actually PhD student in Microbial Ecology from University of Lorraine,CNRS,LIEC under the supervision of research director Aurélie CEBRON and research engineer Thierry BEGUIRISTAIN. My passions are microbial ecology, bioinformatics and molecular biology.
 My sujet thesis is "The role of microbial functional redundancy in soil resilience to contaminants and global change: metagenomic and functional trait approaches".
+
+![portrait](/assets/images/portrait.jpg){: width="500" }
+
 
 ## Experience
 PhD student at University of Lorraine,CNRS,LIEC - 54500 Vandoeuvre-lès-Nancy, France
