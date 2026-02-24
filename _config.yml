@@ -9,7 +9,7 @@ twitter_username:
 github_username:
 disqus_username: 
 # Build settings
-markdown: kramdown
+markdown: GFM
 theme: minima
 
 permalink: /:year/:month/:day/:title/
