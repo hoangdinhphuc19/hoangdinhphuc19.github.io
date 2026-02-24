@@ -5,21 +5,11 @@ permalink: /about/
 ---
 
 ## Summary
-a | My portrait
---------|----------
-Salut! my name is Dinh , actually PhD student in Microbial Ecology from University of Lorraine,CNRS,LIEC under the supervision of research director Aurélie CEBRON and research engineer Thierry BEGUIRISTAIN. My passions are microbial ecology, bioinformatics and molecular biology. </br>My sujet thesis is “The role of microbial functional redundancy in soil resilience to contaminants and global change: metagenomic and functional trait approaches."</br> | ![portrait](/assets/images/portrait.jpg)
 
-|---
-| Default aligned | Left aligned | Center aligned | Right aligned
-|-|:-|:-:|-:
-| First body part | Second cell | Third cell | fourth cell
-| Second line |foo | **strong** | baz
-| Third line |quux | baz | bar
-|---
-| Second body
-| 2 line
-|===
-| Footer row
+
+
+| Salut! my name is Dinh , actually PhD student in Microbial Ecology from University of Lorraine,CNRS,LIEC under the supervision of research director Aurélie CEBRON and research engineer Thierry BEGUIRISTAIN. My passions are microbial ecology, bioinformatics and molecular biology. </br>My sujet thesis is “The role of microbial functional redundancy in soil resilience to contaminants and global change: metagenomic and functional trait approaches."</br> | ![portrait](/assets/images/portrait.jpg) |
+|:--------|-------:|
 
 
 ## Experience
