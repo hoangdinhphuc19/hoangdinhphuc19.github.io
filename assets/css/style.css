@@ -109,6 +109,14 @@ a:hover	{
 	text-decoration: underline;
 }
 
+table thead {
+	display: none;
+}
+
+table td {
+	font-size: 1.1em;
+	line-height: 1.6;
+}
 
 @media screen and (max-width: 850px) {
 	#main {
