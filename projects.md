@@ -4,4 +4,10 @@ title: Projects
 permalink: /projects/
 ---
 
-On this site you can present projects you are working on or you have already finished. You can give short descriptions of the project here or create special project pages your can link here.
+#Current projects
+##Role of bacterial functional redundancy in soil resistance and resilience to stresses : Functional inference from metabarcoding (RESOCO)
+- Grants : **Grand Est region** and **LUE EPHemeris**
+- Role : PhD candidate, Investigator
+- Missions :
+- Results :
+- Publications or communications :
