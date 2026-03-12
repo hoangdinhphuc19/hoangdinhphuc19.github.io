@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-##Role of bacterial functional redundancy in soil resistance and resilience to stresses : Functional inference from metabarcoding (RESOCO)
+<h2>Role of bacterial functional redundancy in soil resistance and resilience to stresses : Functional inference from metabarcoding (RESOCO)</h2>
 - Grants : **Grand Est region** and **LUE EPHemeris**
 - Role : PhD candidate, Investigator
 - Missions :
