@@ -24,9 +24,9 @@ As a foreign student, I began my adventure in France with a DUT (University Tech
 
 ### Projects
 
-Challenge n°16 : **LIA** | The application of AI in predicting MYC, BCL2 and BCL6 gene rearrangements in B-cell lymphomas 
+Challenge n°16 : **LIA** - The application of AI in predicting MYC, BCL2 and BCL6 gene rearrangements in B-cell lymphomas 
 
-**PANCREATION** | This is a collaborative project between MIB Master's students and students from the ISIFC engineering school. The project is based on the creation of an artificial pancreas using 3D bioprinting 
+**PANCREATION** - This is a collaborative project between MIB Master's students and students from the ISIFC engineering school. The project is based on the creation of an artificial pancreas using 3D bioprinting 
 
 ### Publications
 
