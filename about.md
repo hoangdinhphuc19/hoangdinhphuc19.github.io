@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-| Summary | My photo :) |
+| ## Summary | My photo :) |
 |---|---|
 | Salut! my name is Dinh, actually PhD student in Microbial Ecology from University of Lorraine, CNRS, LIEC under the supervision of research director Aurélie CEBRON and research engineer Thierry BEGUIRISTAIN. My passions are microbial ecology, bioinformatics and molecular biology.<br/>My subject thesis is "The role of microbial functional redundancy in soil resilience to contaminants and global change: metagenomic and functional trait approaches." | <img src="/assets/images/P1001058.png" width="300" alt="portrait"> |
 
@@ -24,7 +24,10 @@ As a foreign student, I began my adventure in France with a DUT (University Tech
 ## Porfolio
 
 ### Projects
-
+| Project | Description |
+|---|---|
+| Challenge n°16 : **LIA** | The application of AI in predicting MYC, BCL2 and BCL6 gene rearrangements in B-cell lymphomas |
+| **PANCREATION** | This is a collaborative project between MIB Master's students and students from the ISIFC engineering school. The project is based on the creation of an artificial pancreas using 3D bioprinting |
 ### Publications
 
 ### Communications
