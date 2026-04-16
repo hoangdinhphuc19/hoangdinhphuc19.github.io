@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "You can't kill what won't quit"
-date:   2017-09-06 01:03:29 +0200
+date:   2026-04-16 23:12:29 +0100
 categories: jekyll update
 comments: true
 ---
